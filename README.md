@@ -2,7 +2,7 @@
 
 This is a repository for all the scripts I'll find useful while I'm learning scripting with Bash, PowerShell and Python
 
-## icecast.py
+## icecast.py (CVE-2004-1561)
 
 The original script is available here: https://github.com/ivanitlearning/CVE-2004-1561/blob/master/icecast.py
 
