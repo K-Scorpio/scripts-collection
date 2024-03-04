@@ -9,3 +9,4 @@ The original script is available here: https://github.com/ivanitlearning/CVE-200
 I had to modify it to make it work for Python3
 * I modified lines 49 and 50 to fix bytes concatenation
 * I modified line 54 to remove encoding
+* You need to setup a listener. Eg. `nc -nlvp 443`
