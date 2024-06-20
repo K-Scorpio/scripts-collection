@@ -19,4 +19,14 @@ To use the script, follow this example:
 ./nmap_scan.sh <target_ip> <output_file_name>
 ```
 
+## as_req.sh
+
+This script will extracts a Kerberos hash from a pcap file containing Kerberos Pre-Authentication packets. The extracted hash will be crackable with module 19900 of hashcat. All you need to do is to provide a pcap file. Example:
+
+```
+as_req.sh <pcap file>
+```
+
+![script used to extract kerberos hash from pcap file](./images/kerberos-hash.png)
+
 
