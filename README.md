@@ -10,3 +10,13 @@ I had to modify it to make it work for Python3
 * I modified lines 49 and 50 to fix bytes concatenation
 * I modified line 54 to remove encoding
 * You need to setup a listener. Eg. `nc -nlvp 443`
+
+## nmap_scan.sh
+
+To use the script, follow this example: 
+
+```
+./nmap_scan.sh <target_ip> <output_file_name>
+```
+
+
