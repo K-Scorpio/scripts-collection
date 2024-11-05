@@ -21,7 +21,7 @@ To use the script, follow this example:
 
 ## as_req.sh
 
-This script will extracts a Kerberos hash from a pcap file containing Kerberos Pre-Authentication packets. The extracted hash will be crackable with module 19900 of hashcat. All you need to do is to provide a pcap file. Example:
+This script will extract a Kerberos hash from a pcap file containing Kerberos Pre-Authentication packets. The extracted hash will be crackable with module 19900 of hashcat. All you need to do is to provide a pcap file. Example:
 
 ```
 as_req.sh <pcap file>
