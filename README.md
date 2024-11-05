@@ -29,4 +29,14 @@ as_req.sh <pcap file>
 
 ![script used to extract kerberos hash from pcap file](./images/kerberos-hash.png)
 
+## C2_extract.py
+
+I used this script for the room [SeeTwo](https://tryhackme.com/r/room/seetworoom) on TryHackMe. Just run:
+
+```
+python3 C2_extract.py
+```
+
+
+
 
